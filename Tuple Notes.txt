@@ -1,0 +1,32 @@
+Tuple:
+------------
+A tuple is collection which is ordered and unchangeable.
+In python tuple are written in()
+Tuple is immutable.
+
+If it is immutable below things are not possible:
+
+1. We cannot modify existing value.
+2. we cannot append new value.
+3.we cannot insert new value
+4.we cannot remove value.
+
+Tuple is more secure than list.
+
+By default tuple does not allow change values because it is 
+immutable.But there is work around we can do this by indirect way
+ie tuple->list(modify)->tuple
+
+Copying tuple items is always possible because we cannot change 
+data
+
+You can delete complete tuple by using del command
+ex: del mytuple
+
+After deleting tuple you are trying to print tuple items then 
+NameError: "Tuple name" is not defined
+
+If you are trying to add items in the tuple below error shows:
+TypeError: 'tuple' object does not support item assignment
+
+Join/Combine tuple is always possible by using + operator

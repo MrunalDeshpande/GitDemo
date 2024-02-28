@@ -1,0 +1,26 @@
+list[] - mutable
+tuple() - immutable
+set - mutable
+dictionary - mutable
+-----------------------------
+Set:
+
+A set is collection which is unordered and unindexed .
+In python sets are written with {}
+set is mutable
+
+Dictionary:
+
+A dictionary is a collection which is unordered, changeable(mutable) and indexed.
+n python dictionaries are written with curly brackets and they have key and values
+
+Key   Value
+
+P1 : 100
+P2 : 200
+P3 : 300
+
+Key  Name
+123456:X
+345677:Y
+198387:Z
